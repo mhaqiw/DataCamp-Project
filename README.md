@@ -10,3 +10,5 @@ A repository contains portfolio of DataCamp Projects completed by me
 
 - [Level difficulty in Candy Crush Saga](https://github.com/mhaqiw/DataCamp-Project/blob/master/Level%20difficulty%20in%20Candy%20Crush%20Saga.ipynb) (R)
   - Analyse data from the mobile hit game Candy Crush Saga
+- [What Your Heart Rate Is Telling You](https://github.com/mhaqiw/DataCamp-Project/blob/master/What%20Your%20Heart%20Rate%20Is%20Telling%20You.ipynb) (R)
+  - Examine the relationship between heart rate and heart disease using multiple logistic regression
